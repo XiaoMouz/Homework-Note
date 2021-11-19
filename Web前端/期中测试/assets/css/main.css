@@ -2,7 +2,7 @@ body{
     background:url(../img/bg.png);
 }
 .bannerbox {
-    width:4000px;
+    width:100%;
     position:relative;
     overflow:hidden;
     height:200px;
