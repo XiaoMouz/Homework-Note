@@ -1,4 +1,3 @@
-//Warring:WIP Code,not final results
 #include <stdio.h>
 #include <conio.h>
 //#include <dos.h> SB head file
@@ -85,7 +84,6 @@ int main(){
 
 //01:07:Change function,delete rubbish code
 //Push Home Work again and Sync to Github 有Github写这玩意干啥？闲的睡不着
-
 
 
 
