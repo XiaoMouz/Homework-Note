@@ -13,6 +13,7 @@
 # 作业已涵盖语言
 ![](https://badgen.net/badge/C/11/blue)
 ![](https://badgen.net/badge/HTML/5.0/orange)
+![](https://badgen.net/badge/CSS/3.0/purple)
 
 # 许可证
 ![](https://badgen.net/badge/license/MIT/blue)
