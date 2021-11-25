@@ -1,3 +1,4 @@
+//输入任意整数，将其逆序输出
 #include <stdio.h>
 #include <string.h>
 //reverse函数不是我的写的，自行体会
@@ -38,14 +39,8 @@ int main(){
 	//懂的都懂
 	strcpy(numAnti,numbers);
 	reverse(numAnti);
-	//对比
-	if((strcmp(numbers,numAnti))==0){
-		
-		printf("这是回文数");
-	}
-	else{
-		printf("这不是回文数");
-	}
+	//输出
+	printf("%s",numAnti);
 	
 	return 0;	
 }
