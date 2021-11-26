@@ -1,0 +1,37 @@
+/* CSS Document */ 
+
+/*相邻选择器
+h1+p的意思是：对h1后面一个p标签生效
+*/
+h1 + p{
+    color:red;
+}
+
+/*属性选择器，当元素/标签/类存在某个属性时，才生效*/
+a[title]{
+    color: rgb(0, 255, 221);
+}
+
+a[target]{
+    color:rgb(20, 255, 40);
+}
+
+/*后代选择器*/
+div p{
+    color:rgb(242, 255, 53);
+}
+/*以上面为例子，div是父标签，p是子标签，意为对div中的p生效*/
+
+
+p,div{
+    width: 400px;
+    height:300px;
+    border:1px dashed rgb(0, 255, 221);
+    float:left;
+}
+
+p{
+    margin-top: 1px;
+}
+
+p.siderbar{background-color: red;}

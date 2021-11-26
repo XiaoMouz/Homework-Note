@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>子代选择器与伪类选择器</title>
+        <link rel="stylesheet" href="assets/css/main.css">
+		<style type="text/css">
+			//子代选择器
+			h1>strong{color:aqua;}
+			h2>em{color:aquamarine;}
+			//后代选择器
+			h2.strong{color:antiquewhite;}
+		</style>
+    </head>
+
+	<body>
+		<h1>Hiiiii<strong>iiiiii</strong>iiiiiiiiiiiiiiii</h1>
+		<h1>Hiiiiiii<em><strong>iiiiiiii</strong></em>iiiiiiiiiiiiiiiiiiiiiii</h1>
+		<h2>Hiiiiii<strong>iiiiiiii</strong>iiii<em>iiiii</em>iiiiii</h2>
+		<h2>Hiiiiiiii<em><strong>iiiiiiiiiiiiiiii</strong></em></h2>
+	</body>
+</html>

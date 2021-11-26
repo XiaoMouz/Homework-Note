@@ -1,0 +1,70 @@
+body{
+	background-color: #ffe5e5;
+}
+
+#context{
+	background-color:#B3375C;
+}
+
+#title{
+	text-align:center;
+	color:#9D3151;
+}
+
+#menu{
+	text-align:center;
+}
+
+#menu a:link{
+	text-decoration: none;
+	margin-right:35px;
+	color:#9D3151;
+}
+
+#context{
+	float:left;
+}
+
+#context span{
+	color:#ffffff;
+}
+
+p.special{
+	color:#ff9 !important;
+}
+
+#context p{
+	color:#FFFFFF;
+}
+
+/* 导航栏 */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}

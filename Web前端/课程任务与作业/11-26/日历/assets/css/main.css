@@ -1,0 +1,32 @@
+.week{
+    color:rgb(0, 162, 255);
+    height:50px;
+}
+.days{
+    width: 100px;
+    height: 100px;
+}
+.days-last{
+    background-color: lightslategrey;
+    width: 100px;
+    height: 100px;
+}
+
+t
+
+td:hover{
+    background-color: rgb(0, 162, 255);
+    
+}
+p{
+    text-align: center;
+}
+#sub{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
