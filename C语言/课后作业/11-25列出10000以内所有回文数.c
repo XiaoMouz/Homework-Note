@@ -2,6 +2,7 @@
 //封装一下，太丑了
 int anti1000number(int i){
 	int anti;
+	anti=0;
 	if(i/1000>0){
 		anti+=i/1000;
 		anti+=i%10*1000;
