@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  padding: 0;
+  margin: 0;
+  width: 297px;
+  height: 100%;
+}
+
+.image {
+  font-size: 0;
+}
+
+.list-style a:link,
+.list-style a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.list-style {
+  color: while;
+  background: rgb(50, 74, 94);
+  height: 50px;
+  width: 100%;
+  position: transparent;
+  text-align: center;
+  line-height: 50px;
+}
+
+.list-style:after {
+  background: rgb(50, 74, 94);
+}
+
+.list-style:hover {
+  background: rgb(103, 186, 255);
+}

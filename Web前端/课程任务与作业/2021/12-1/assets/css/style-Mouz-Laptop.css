@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.list-style {
+  background: rgb(50, 74, 94);
+  height: 20px;
+}
