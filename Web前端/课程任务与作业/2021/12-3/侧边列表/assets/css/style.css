@@ -1,0 +1,29 @@
+.leftlist {
+  height: 100%;
+  width: 200px;
+  background: #cccccc;
+  overflow-x: hidden;
+}
+
+.leftlist h2 {
+  margin: 10px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.list {
+  padding-left: 10px;
+  font-size: 18px;
+}
+
+.list a {
+  width: 170px;
+  padding-left: 10px;
+  display: block;
+  background: white;
+  float: left;
+}
+
+.list a:hover {
+  background: #999999;
+}
