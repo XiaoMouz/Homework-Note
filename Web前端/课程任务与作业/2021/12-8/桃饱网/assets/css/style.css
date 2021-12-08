@@ -1,0 +1,6 @@
+.rules {
+  overflow-y: scroll;
+  height: 80px;
+  width: 600px;
+  border: 1px solid #ccc;
+}
