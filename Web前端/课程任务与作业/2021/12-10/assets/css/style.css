@@ -1,0 +1,83 @@
+.main {
+  margin: auto;
+  width: 700px;
+  background-color: #676767;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "微软雅黑";
+  font-size: 16px;
+  line-height: 35px;
+}
+
+#title {
+  text-align: center;
+  font-size: 24px;
+}
+
+.list {
+  border: 2px solid white;
+  margin: 30px 25px 0px 25px;
+}
+
+input {
+  margin-right: 20px;
+  border: 1px solid black;
+  background-color: #e8e8e8;
+}
+
+input:hover {
+  margin-right: 20px;
+  border: 1px solid #333;
+  background-color: #ffffff;
+}
+
+span {
+  margin-left: 10px;
+}
+
+.name {
+  width: 80px;
+}
+.address {
+  width: 220px;
+}
+
+.area {
+  font-size: 14px;
+  width: 150px;
+  height: 20px;
+  padding-right: 30px;
+  background-image: url(../img/arrow.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  border: 1px solid #ccc;
+}
+
+.checkboxSet {
+  margin: 0;
+  padding: 0;
+}
+.checkboxSet:hover {
+  margin: 0;
+  padding: 0;
+}
+
+.packageName {
+  width: 410px;
+}
+
+.packageInfo {
+  width: 50px;
+}
+
+.pay {
+  margin-left: -18px;
+  margin-right: 0px;
+  padding: 0;
+}
+
+.btn {
+  margin: auto;
+  text-align: center;
+}
