@@ -1,6 +1,41 @@
 .rules {
   overflow-y: scroll;
   height: 80px;
-  width: 600px;
+  width: 400px;
   border: 1px solid #ccc;
+}
+
+.regMain {
+  margin: auto;
+  width: 800px;
+}
+
+.regText {
+  height: 38px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(255, 68, 68);
+}
+.regText p {
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.list li {
+  list-style: none;
+}
+
+.list input:hover {
+  background-color: rgb(255, 203, 33);
+}
+.list input:focus {
+  background-color: rgb(255, 203, 33);
+}
+
+.footer {
+  padding-top: 5px;
+  height: 38px;
+  text-align: center;
+  font-size: 20px;
+  background-color: rgb(255, 68, 68);
 }
