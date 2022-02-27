@@ -9,6 +9,8 @@
 [什么是Github，为什么我要在这里存储代码？](https://github.com/XiaoMouz/Homework-Note/wiki)
 <br>
 [我只想下载作业答案](https://github.com/XiaoMouz/Homework-Note/wiki/%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E6%AD%A4%E5%A4%84%E7%9A%84%E4%BB%A3%E7%A0%81)
+<br>
+[Java作业在哪里？](https://github.com/XiaoMouz/Java-Homework)
 
 # 作业已涵盖语言
 ![](https://badgen.net/badge/C/11/blue)
