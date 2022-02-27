@@ -3,7 +3,7 @@
 # 大杂货铺
 如果是路人那么可以离开的了说，本repo适用于江西信息应用职业技术学院21届软件学生
 
-# Hi~同学们
+### Hi~同学们
 这个repo虽然是用来公布作业答案的，但是我希望在这个repo上传作业的不止我一个人，欢迎各位到这里熟悉Github各个功能，比如`Pull Request`拉取请求来提交你的作业等功能，未来分方向后希望各个方向大佬来独领风骚
 
 [什么是Github，为什么我要在这里存储代码？](https://github.com/XiaoMouz/Homework-Note/wiki)
@@ -12,11 +12,11 @@
 <br>
 [Java作业在哪里？](https://github.com/XiaoMouz/Java-Homework)
 
-# 作业已涵盖语言
+### 作业已涵盖语言
 ![](https://badgen.net/badge/C/11/blue)
 ![](https://badgen.net/badge/HTML/5.0/orange)
 ![](https://badgen.net/badge/CSS/3.0/purple)
 
-# 许可证
+### 许可证
 
 ![](https://badgen.net/badge/license/MIT/blue)
